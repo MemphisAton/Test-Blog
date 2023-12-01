@@ -1,0 +1,8 @@
+SECRET_KEY = 'django code'
+
+PASSWORD = 'user pass for the bd'
+
+EMAIL_HOST_USER = 'main email'
+EMAIL_HOST_PASSWORD = 'pass for main email'
+
+необходимо переименовать файл в .env и вставить необзодимые данные
